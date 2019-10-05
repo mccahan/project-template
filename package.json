@@ -12,6 +12,7 @@
 		"grunt-postcss": "^0.9.0",
 		"grunt-responsive-videos": "github:lgndhq/grunt-responsive-videos#master",
 		"grunt-spritesmith": "^6.8.0",
+		"grunt-terser": "github:lgndhq/grunt-terser#master",
 		"postcss-import": "^12.0.1"
 	}
 }
