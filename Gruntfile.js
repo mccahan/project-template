@@ -17,6 +17,16 @@ module.exports = function(grunt) {
 				}
 	    }
 	  },
+		image: {
+      dynamic: {
+        files: [{
+          expand: true,
+          cwd: 'images/',
+          src: ['**/*.{png,jpg,gif,svg}'],
+          dest: 'dist/'
+        }]
+      }
+    },
 		watch: {
 			css: {
 				files: 'scss/*.scss',
@@ -24,10 +34,16 @@ module.exports = function(grunt) {
 				options: {
 					livereload: true
 				}
-			}
+			},
+      images: {
+        files: 'images/**',
+        tasks: ['newer:image']
+      }
 		}
 	});
 	grunt.registerTask('default', ['watch']);
+	grunt.loadNpmTasks('grunt-image');
+	grunt.loadNpmTasks('grunt-newer');
 	grunt.loadNpmTasks('grunt-postcss');
 	grunt.loadNpmTasks('grunt-contrib-watch');
 }
