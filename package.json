@@ -1,0 +1,14 @@
+{
+	"name": "project.lgnd.com",
+	"dependencies": {
+		"@csstools/postcss-sass": "^4.0.0",
+		"autoprefixer": "^9.6.1",
+		"cssnano": "^4.1.10",
+		"grunt": "^0.4",
+		"grunt-contrib-watch": "^1.1.0",
+		"grunt-postcss": "^0.9.0",
+		"grunt-responsive-videos": "github:lgndhq/grunt-responsive-videos#master",
+		"grunt-spritesmith": "^6.8.0",
+		"postcss-import": "^12.0.1"
+	}
+}
