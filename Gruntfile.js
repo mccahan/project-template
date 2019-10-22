@@ -54,7 +54,10 @@ module.exports = function(grunt) {
       },
       js: {
         'files': 'js/**',
-        tasks: ['terser']
+        tasks: ['terser'],
+        options: {
+          livereload: true
+        }
       }
     }
   });
