@@ -2,7 +2,7 @@
 	"name": "project.lgnd.com",
 	"dependencies": {
 		"@csstools/postcss-sass": "^4.0.0",
-		"autoprefixer": "^9.6.1",
+		"autoprefixer": "^9.6.5",
 		"cli": ">=1.0.0",
 		"cssnano": "^4.1.10",
 		"grunt": "^0.4",
