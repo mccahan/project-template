@@ -169,6 +169,36 @@
         <img src="dist/workforce-by-number-of-employees.png" srcset="dist/workforce-by-number-of-employees@2x.png 2x" alt="">
       </div>
     </div>
+
+    <div class="side-by-side-charts">
+      <div>
+        <h4>8 in 10 employers are currently offering alternate work schedules to support employees.</h4>
+        <p>Employers are implementing revised policies and procedures to promote the safety and well-being of employees and their families during this pandemic, with a majority offering flexible and remote work options, and paid or unpaid leave. Comments from employers indicated the new accommodations are heavily influenced by employee childcare and education needs.</p>
+      </div>
+      <div>
+        <img src="dist/workforce-over-next-year.png" srcset="dist/workforce-over-next-year@2x.png 2x" alt="">
+      </div>
+    </div>
+
+    <div class="side-by-side-charts">
+      <div>
+        <h4>Many employers are providing new flexible options for employees.</h4>
+        <p>In addition to allowing more telework, over half of employers responding to the survey are changing existing schedules to accommodate employee needs and ensure safety protocols. In addition to the listed options, employers noted that they are also providing expanded employee assistance programs, access to additional resources for working parents, and providing childcare at their worksites.</p>
+      </div>
+      <div>
+        <img src="dist/post-covid-policies.png" srcset="dist/post-covid-policies@2x.png 2x" alt="">
+      </div>
+    </div>
+
+    <div class="side-by-side-charts">
+      <div>
+        <h4>Most employers are working to ensure physical distancing, requiring masks and limiting the number of people in the workplace.</h4>
+        <p>Employers are actively working to mitigate the risk of viral spread by adjusting their procedures for those employees that do return to worksites. Four-in-ten employers plan to conduct contact tracing for infected employees but only one in ten expects to test their employees for COVID-19.</p>
+      </div>
+      <div>
+        <img src="dist/safety-measures.png" srcset="dist/safety-measures@2x.png 2x" alt="">
+      </div>
+    </div>
   </section>
 </div>
 

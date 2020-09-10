@@ -209,7 +209,7 @@ h2.two-step-headline {
 
       article {
         padding: 30px 20px;
-        font-family: HK Grotesk;
+        font-family: HKGrotesk;
         font-style: normal;
         font-weight: 500;
         font-size: 20px;
@@ -249,7 +249,7 @@ h2.two-step-headline {
 
 #the-return {
   h4 {
-    font-family: HK Grotesk;
+    font-family: HKGrotesk;
     font-style: normal;
     font-weight: bold;
     font-size: 29px;
@@ -280,7 +280,7 @@ h2.two-step-headline {
     }
 
     p {
-      font-family: HK Grotesk;
+      font-family: HKGrotesk;
       font-style: normal;
       font-weight: normal;
       font-size: 22px;
@@ -293,7 +293,7 @@ h2.two-step-headline {
     }
 
     h3 {
-      font-family: HK Grotesk;
+      font-family: HKGrotesk;
       font-style: normal;
       font-weight: 600;
       font-size: 46px;
@@ -312,6 +312,7 @@ h2.two-step-headline {
 
   .double-chart-block {
     display: flex;
+    margin-bottom: 80px;
 
     img {
       max-width: 100%;
@@ -327,7 +328,7 @@ h2.two-step-headline {
     }
 
     h4 {
-      font-family: HK Grotesk;
+      font-family: HKGrotesk;
       font-style: normal;
       font-weight: bold;
       font-size: 22px;
@@ -348,6 +349,39 @@ h2.two-step-headline {
       img + h4 {
         margin-top: 20px;
       }
+    }
+  }
+
+  .side-by-side-charts {
+    display: flex;
+    margin: 40px 0;
+    align-items: center;
+
+    + .side-by-side-charts {
+      margin-top: 70px;
+    }
+
+    h4 {
+      font-family: HKGrotesk;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 36px;
+      line-height: 108.9%;
+      color: #E5475B;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-family: HKGrotesk;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 22px;
+      line-height: 33px;
+      color: #000000;
+    }
+
+    > div:nth-child(1) {
+      margin-right: 40px;
     }
   }
 }
