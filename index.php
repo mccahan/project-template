@@ -90,6 +90,52 @@
   </div>
 </section>
 
+<div class="main-content">
+  <section class="intro">
+    <h2 class="first-heading">The Greater Washington Partnership is about unity and solutions</h2>
+    <p>Bringing people, organizations, and jurisdictions together to make the Capital Region of Baltimore, Washington, and Richmond, the world’s best place to live, work, raise a family, and build a business. The <strong>Capital COVID-19 Survey: Return to Work, powered by the Greater Washington Partnership and EY</strong>, conducted in partnership with public agencies and business organizations throughout the region, is designed to increase regional information and data sharing so employers, both large and small, can make more informed decisions about reopening and public agencies can better understand when employees are expected to return to their offices and worksites.</p>
+    <p>The Capital COVID-19 Survey was conducted between August 10-28, 2020, with  430  employers participating from the Washington, Baltimore, and Richmond metro areas. Along with an analysis of employer reopening plans, this report includes public sector information, including a Transit Tracker that provides ridership trends and the social distancing carrying capacity of the region's public transportation systems. The findings contained in this report will help employers and public agencies collaboratively reopen the Capital Region's economy safely, gradually and sustainably in the months ahead. We intend to update this product regularly as the region continues to reopen, so that all decision-makers and residents have access to regular, timely and actionable advice. As we work together to reopen the region safely, we encourage all employers and residents to do their part to help slow the spread of COVID-19 by following public health officials' guidance, wearing masks and observing social distancing guidelines.</p>
+  </section>
+
+  <section id="key-findings">
+    <div class="finding-block">
+      <h2 class="two-step-headline">Capital COVID-19<br><strong>Key Findings</strong></h2>
+      <div class="insights red">
+        <article><img src="dist/insight-icon-1.png" srcset="dist/insight-icon-1@2x.png 2x" alt="">
+          <p>Employers are adopting a phased approach to reopening, but many remain uncertain. This fall, about one-third of the region’s workforce is expected to physically return to worksites.</p>
+        </article>
+        <article><img src="dist/insight-icon-2.png" srcset="dist/insight-icon-2@2x.png 2x" alt="">
+          <p>Of those employers who had reopening plans, on average, 72 percent of their workforce will have returned to worksites by summer 2021. However, a third of responding employers were unsure when they expect their workforce to return.</p>
+        </article>
+        <article><img src="dist/insight-icon-3.png" srcset="dist/insight-icon-3@2x.png 2x" alt="">
+          <p>Nearly half of employers indicated a high level of concern about public transit safety and a low level of confidence that public agencies can control crowding and enforce the wearing of masks.</p>
+        </article>
+        <article><img src="dist/insight-icon-4.png" srcset="dist/insight-icon-4@2x.png 2x" alt="">
+          <p>Most employers want to regularly test their employees for COVID but will not if the test costs more than $50.</p>
+        </article>
+      </div>
+    </div>
+
+    <div class="finding-block">
+      <h2 class="two-step-headline">Capital Transit Tracker<br><strong>Key Findings</strong></h2>
+      <div class="insights blue">
+        <article><img src="dist/insight-icon-5.png" srcset="dist/insight-icon-5@2x.png 2x" alt="">
+          <p>Metrorail ridership remains well below historic levels (85% below last year) while service, hours of operation, and frequencies are close to pre-pandemic levels, resulting in no Metro lines exceeding the social distance crowding threshold on average in August, including peak periods.</p>
+        </article>
+        <article><img src="dist/insight-icon-6.png" srcset="dist/insight-icon-6@2x.png 2x" alt="">
+          <p>While bus systems retained the most ridership throughout the pandemic, transit agencies have not reported widespread crowding issues as of August.</p>
+        </article>
+        <article><img src="dist/insight-icon-7.png" srcset="dist/insight-icon-7@2x.png 2x" alt="">
+          <p>Some historically high-ridership bus routes are exceeding the social distancing capacity at certain times of day; a standard 40ft bus has about 40 seats, but the social distancing capacity is only 10 passengers.</p>
+        </article>
+        <article><img src="dist/insight-icon-8.png" srcset="dist/insight-icon-8@2x.png 2x" alt="">
+          <p>While crowding on the transit system is not common today, projected cuts to funding and service will exacerbate crowding concerns should Congress be unable to provide additional aid to our region’s transit network.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+</div>
+
 <?php /* The following line is used ONLY for development and can be removed in production */ ?>
 <?php if (php_sapi_name() == 'cli-server'): ?><script src="//localhost:35729/livereload.js"></script><?php endif; ?>
 </body>
