@@ -373,4 +373,57 @@ h2.two-step-headline strong {
 #the-return .side-by-side-charts > div:nth-child(1) {
   margin-right: 40px;
 }
+#the-return h3.blue {
+  font-family: HKGrotesk;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 29px;
+  line-height: 38px;
+  color: #0F456B;
+  margin: 80px 0 35px;
+}
+#the-return .bigger-side-by-side {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+#the-return .bigger-side-by-side > div:nth-child(1) {
+  padding: 0 20px 0 0;
+  border-right: 1px solid #979797;
+  margin-right: 40px;
+}
+#the-return .bigger-side-by-side h4 {
+  font-family: HKGrotesk;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 108.9%;
+  color: #E5475B;
+  margin-bottom: 20px;
+  line-height: 55px;
+}
+#the-return .bigger-side-by-side p {
+  font-family: HKGrotesk;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 33px;
+  color: #000000;
+}
+#the-return .bigger-side-by-side p + p {
+  margin-top: 25px;
+}
+#the-return .bigger-side-by-side figcaption {
+  margin: 25px 0;
+}
+#the-return .bigger-side-by-side figcaption h5 {
+  color: #E5475B;
+}
+#the-return .bigger-side-by-side figcaption p {
+  font-size: 18px;
+  line-height: 27px;
+}
 /*# sourceMappingURL=style.css.map */

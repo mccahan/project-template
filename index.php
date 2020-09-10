@@ -199,6 +199,21 @@
         <img src="dist/safety-measures.png" srcset="dist/safety-measures@2x.png 2x" alt="">
       </div>
     </div>
+
+    <h3 class="blue">Most employers do not plan to regularly test employees but say they would test if tests were free</h3>
+    <div class="bigger-side-by-side">
+      <div><h4>We need to implement an effective public testing strategy</h4></div>
+      <div>
+        <p>Only 10-percent of respondents indicated that their organization plans to require testing to enter a worksite.</p>
+        <p>A robust regionwide testing strategy that is timely, accessible, and affordable is needed <strong>to achieve our shared goal of reopening safely and sustainably</strong>. In addition to a robust testing strategy, there is a suite of actions employers are adopting to lower the transmission risk further. These include social distancing, contact tracing and requiring masks.</p>
+
+        <figcaption>
+          <h5>Half of employers will not test their employees if the cost per test were above $50.</h5>
+          <p>Rapid and convenient testing is essential to a safe reopening. While the Capital Region has been ramping up testing, there is no coordinated strategy or best practices for employers. Employers were asked to indicate how often their organization would want to test employees for COVID-19, assuming rapid and accurate results, at varying price levels.</p>
+        </figcaption>
+        <img src="dist/frequency-and-cost.png" srcset="dist/frequency-and-cost@2x.png 2x" alt="">
+      </div>
+    </div>
   </section>
 </div>
 
