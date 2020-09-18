@@ -134,18 +134,8 @@
       </div>
     </div>
   </section>
-
-  <section id="regional-partners">
-    <h2 class="two-step-headline">Capital COVID-19 Survey<br><strong>Regional Survey Partners</strong></h2>
-    <p>The Greater Washington Partnership is most successful when aligned with our exceptional partners throughout the Capital Region.  Thank you to the following partners for collaborating on this effort to ensure we have a strong, safe recovery.</p>
-    <img src="dist/partner-logos.png" srcset="dist/partner-logos@2x.png 2x" alt="Regional Partner Logos">
-
-    <img class="background" src="dist/rectangle-bg.png" alt="">
-  </section>
 </div>
 
-
-<span>​</span>
 <?php /* The following line is used ONLY for development and can be removed in production */ ?>
 <?php if (php_sapi_name() == 'cli-server'): ?><script src="//localhost:35729/livereload.js"></script><?php endif; ?>
 </body>

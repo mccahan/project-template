@@ -145,10 +145,6 @@ h2.two-step-headline {
   color: #0F456B;
   margin: 0;
 
-  @media (max-width: 900px) {
-    font-size: 30px;
-  }
-
   strong {
     font-family: Graphit;
     font-style: normal;
@@ -156,11 +152,6 @@ h2.two-step-headline {
     font-size: 98px;
     line-height: 88px;
     color: #E5475B;
-
-    @media (max-width: 900px) {
-      font-size: 50px;
-      line-height: 60px;
-    }
   }
 }
 
@@ -221,28 +212,5 @@ h2.two-step-headline {
         }
       }
     }
-  }
-}
-
-#regional-partners {
-  margin: 80px 0;
-  text-align: center;
-  position: relative;
-
-  h2 {
-    margin-bottom: 20px;
-  }
-
-  p {
-    max-width: 920px;
-    text-align: left;
-    margin: 40px auto;
-  }
-
-  .background {
-    position: absolute;
-    left: calc(-50vw + 665px);
-    width: 100vw;
-    z-index: -1;
   }
 }

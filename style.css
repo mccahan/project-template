@@ -144,11 +144,6 @@ h2.two-step-headline {
   color: #0F456B;
   margin: 0;
 }
-@media (max-width: 900px) {
-  h2.two-step-headline {
-    font-size: 30px;
-  }
-}
 h2.two-step-headline strong {
   font-family: Graphit;
   font-style: normal;
@@ -156,12 +151,6 @@ h2.two-step-headline strong {
   font-size: 98px;
   line-height: 88px;
   color: #E5475B;
-}
-@media (max-width: 900px) {
-  h2.two-step-headline strong {
-    font-size: 50px;
-    line-height: 60px;
-  }
 }
 
 #key-findings {
@@ -224,25 +213,5 @@ h2.two-step-headline strong {
 #key-findings .finding-block .insights article img {
   display: block;
   margin: 0 auto 10px;
-}
-
-#regional-partners {
-  margin: 80px 0;
-  text-align: center;
-  position: relative;
-}
-#regional-partners h2 {
-  margin-bottom: 20px;
-}
-#regional-partners p {
-  max-width: 920px;
-  text-align: left;
-  margin: 40px auto;
-}
-#regional-partners .background {
-  position: absolute;
-  left: calc(-50vw + 665px);
-  width: 100vw;
-  z-index: -1;
 }
 /*# sourceMappingURL=style.css.map */
