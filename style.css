@@ -215,7 +215,7 @@ h2.two-step-headline strong {
 }
 #key-findings .finding-block .insights article {
   padding: 30px 20px;
-  font-family: HKGrotesk;
+  font-family: HK Grotesk;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -247,7 +247,7 @@ h2.two-step-headline strong {
 }
 
 #the-return h4 {
-  font-family: HKGrotesk;
+  font-family: HK Grotesk;
   font-style: normal;
   font-weight: bold;
   font-size: 29px;
@@ -280,7 +280,7 @@ h2.two-step-headline strong {
   }
 }
 #the-return .side-by-side p {
-  font-family: HKGrotesk;
+  font-family: HK Grotesk;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -291,7 +291,7 @@ h2.two-step-headline strong {
   margin-top: 20px;
 }
 #the-return .side-by-side h3 {
-  font-family: HKGrotesk;
+  font-family: HK Grotesk;
   font-style: normal;
   font-weight: 600;
   font-size: 46px;
@@ -307,7 +307,6 @@ h2.two-step-headline strong {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin-bottom: 80px;
 }
 #the-return .double-chart-block img {
   max-width: 100%;
@@ -322,7 +321,7 @@ h2.two-step-headline strong {
   }
 }
 #the-return .double-chart-block h4 {
-  font-family: HKGrotesk;
+  font-family: HK Grotesk;
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
@@ -340,37 +339,5 @@ h2.two-step-headline strong {
 }
 #the-return .double-chart-block > div:nth-child(2) img + h4 {
   margin-top: 20px;
-}
-#the-return .side-by-side-charts {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin: 40px 0;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-#the-return .side-by-side-charts + .side-by-side-charts {
-  margin-top: 70px;
-}
-#the-return .side-by-side-charts h4 {
-  font-family: HKGrotesk;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 36px;
-  line-height: 108.9%;
-  color: #E5475B;
-  margin-bottom: 20px;
-}
-#the-return .side-by-side-charts p {
-  font-family: HKGrotesk;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 22px;
-  line-height: 33px;
-  color: #000000;
-}
-#the-return .side-by-side-charts > div:nth-child(1) {
-  margin-right: 40px;
 }
 /*# sourceMappingURL=style.css.map */
