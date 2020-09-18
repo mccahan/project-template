@@ -142,34 +142,6 @@
 
     <img class="background" src="dist/rectangle-bg.png" alt="">
   </section>
-
-  <section id="the-return">
-    <h4>The return to worksites will be gradual</h4>
-    <div class="side-by-side bordered">
-      <div><h3>The health and safety of our regional workforce comes first.</h3></div>
-      <div>
-        <p>Based on responses as of August 2020, employers with plans for next summer expect, on average, <strong>72 percent of their workforce to have returned to worksites by summer 2021</strong>. However, a third of responding employers are still unsure when they expect their workforce to return.</p>
-        <p>Decision-makers must continue to prioritize the health and safety of workers, and their families. By collecting and widely disseminating this information, leaders across organizations will be able to learn from each other and apply best practices to their operations.</p>
-      </div>
-    </div>
-
-    <div class="double-chart-block">
-      <div>
-        <h4>Share of Workforce Expected Onsite Post Labor Day</h4>
-        <img src="dist/donut-chart-1.svg" alt="">
-      </div>
-      <div>
-        <h4>Share of Workforce Onsite post Labor Day by State</h4>
-        <img src="dist/workforce-by-state.svg" alt="">
-
-        <h4>Share of Workforce Onsite Over the Next Year</h4>
-        <img src="dist/workforce-by-employees.png" srcset="dist/workforce-by-employees@2x.png 2x" alt="">
-
-        <h4>Share of Workforce Onsite post Labor Day by Worksite Size</h4>
-        <img src="dist/workforce-by-number-of-employees.png" srcset="dist/workforce-by-number-of-employees@2x.png 2x" alt="">
-      </div>
-    </div>
-  </section>
 </div>
 
 
